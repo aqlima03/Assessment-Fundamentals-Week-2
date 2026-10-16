@@ -124,6 +124,7 @@ class Quiz:
 
 
 class Marking:
+    """Implementing a marking system for the assessment"""
 
     def __init__(self, quiz: Quiz) -> None:
         self._quiz = quiz
