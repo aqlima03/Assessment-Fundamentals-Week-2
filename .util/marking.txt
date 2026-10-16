@@ -5,18 +5,17 @@ plugins: platformdirs-4.13.3
 collected 16 items / 1 error
 
 !!!!!!!!!!!!!!!!!!!! Interrupted: 1 error during collection !!!!!!!!!!!!!!!!!!!!
-=============================== 1 error in 0.15s ===============================
+=============================== 1 error in 0.14s ===============================
 ************* Module task_one
 Level-1/task_one.py:9:34: W0622: Redefining built-in 'type' (redefined-builtin)
 Level-1/task_one.py:5:0: R0903: Too few public methods (0/2) (too-few-public-methods)
 ************* Module task_two
-Level-2/task_two.py:1:0: C0114: Missing module docstring (missing-module-docstring)
-Level-2/task_two.py:8:34: W0622: Redefining built-in 'type' (redefined-builtin)
-Level-2/task_two.py:4:0: R0903: Too few public methods (1/2) (too-few-public-methods)
-Level-2/task_two.py:25:0: R0903: Too few public methods (1/2) (too-few-public-methods)
-Level-2/task_two.py:35:0: R0903: Too few public methods (1/2) (too-few-public-methods)
-Level-2/task_two.py:45:0: R0903: Too few public methods (1/2) (too-few-public-methods)
-Level-2/task_two.py:97:37: W0622: Redefining built-in 'type' (redefined-builtin)
+Level-2/task_two.py:9:34: W0622: Redefining built-in 'type' (redefined-builtin)
+Level-2/task_two.py:5:0: R0903: Too few public methods (1/2) (too-few-public-methods)
+Level-2/task_two.py:26:0: R0903: Too few public methods (1/2) (too-few-public-methods)
+Level-2/task_two.py:36:0: R0903: Too few public methods (1/2) (too-few-public-methods)
+Level-2/task_two.py:46:0: R0903: Too few public methods (1/2) (too-few-public-methods)
+Level-2/task_two.py:98:37: W0622: Redefining built-in 'type' (redefined-builtin)
 ************* Module task_three
 Level-3/task_three.py:1:0: C0114: Missing module docstring (missing-module-docstring)
 Level-3/task_three.py:17:0: C0115: Missing class docstring (missing-class-docstring)
@@ -30,5 +29,5 @@ Level-3/task_three.py:35:23: W0621: Redefining name 'quiz' from outer scope (lin
 Level-3/task_three.py:33:0: R0903: Too few public methods (0/2) (too-few-public-methods)
 
 ------------------------------------------------------------------
-Your code has been rated at 8.46/10 (previous run: 8.46/10, +0.00)
+Your code has been rated at 8.54/10 (previous run: 8.54/10, +0.00)
 
