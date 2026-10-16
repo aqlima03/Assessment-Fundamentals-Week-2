@@ -1,3 +1,4 @@
+"""Creating classes for different assessment types"""
 from datetime import date
 
 
